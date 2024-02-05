@@ -117,3 +117,19 @@ code {
   z-index: -1;
   opacity: 0.2;
 }
+
+.image-container {
+  display: flex;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.image-container img {
+  max-width: 50%; 
+  height: auto; 
+}
+
+       
+h2 {
+  margin-top: 20px; 
+}
